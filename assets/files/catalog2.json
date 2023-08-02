@@ -1,0 +1,93 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Orages",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem1.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+        }
+        ,
+        {
+            "id": 2,
+            "name": "Rice (Basmati)",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem1.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+        }
+        ,
+        {
+            "id": 3,
+            "name": "Rice",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem2.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+            
+        }
+        ,
+        {
+            "id": 4,
+            "name": "Rice",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem2.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+        }
+        ,
+        {
+            "id": 5,
+            "name": "Rice",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem2.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+        }
+        ,
+        {
+            "id": 6,
+            "name": "Rice",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem2.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+        }
+        ,
+        {
+            "id": 7,
+            "name": "Rice",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem2.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+        }
+        ,
+        {
+            "id": 8,
+            "name": "Rice",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem2.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+        }
+        ,
+        {
+            "id": 9,
+            "name": "Rice",
+            "desc": "1kg",
+            "price": 699,
+            "image": "assets/images/catalogitem2.png",
+            "description" : "Basmati rice originated in the Indian subcontinent, particularly in the foothills of the Himalayas. It has a sweet, nutty fragrance that is often described."
+
+        }
+    ]
+}   
